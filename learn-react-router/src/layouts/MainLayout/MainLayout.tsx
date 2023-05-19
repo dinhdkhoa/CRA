@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, NavLink } from 'react-router-dom'
+import { Link, NavLink, Route, Routes } from 'react-router-dom'
 
 interface Props {
   children?: React.ReactNode
@@ -48,6 +48,9 @@ export default function MainLayout({ children }: Props) {
               </NavLink>
             </li>
           </ul>
+          <Routes>
+            <Route path='/about' />
+          </Routes>
         </div>
       </aside>
       <main className='col-span-3 h-full py-4 px-3'>{children}</main>
