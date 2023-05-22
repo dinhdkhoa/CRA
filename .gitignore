@@ -4,6 +4,7 @@
 learn-react-router/node_modules
 ReactQuery/server/node_modules
 ReactQuery/starter-template/node_modules
+ReactQuery/starter-template/yarn.lock
 ReactQuery/student-management/node_modules
 /.pnp
 .pnp.js
