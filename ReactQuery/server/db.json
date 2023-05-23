@@ -521,16 +521,6 @@
       "btc_address": "1KDg5ye1GWTB2fTXLoPQTvA3ZY3nNwxE6d"
     },
     {
-      "id": 58,
-      "first_name": "Bobbi",
-      "last_name": "Benediktovich",
-      "email": "bbenediktovich1l@zdnet.com",
-      "gender": "Female",
-      "country": "France",
-      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKZSURBVBgZpcFfaJV1HMfx9+/Zc9QtO0unOMdasEibGf65SLOCJWRX4p0gCCVddBVYF0FEF4Hsom668jIN6iJJvYgoRoOMeTBdEoORf2rqJseca8ftHM+e5/f8ft9P5+JcSJA3vV5OEv9HwiPc+/HlqbnRPeIRnCRq469KJiTtwjQo0+uS3lzVtx9JNG+eRaZvZfa9TBWLVpGpa+Dgb85JYuHnYa3s20+oTZGsXE/6xDZW9e6FjtWAoaJGdrdCNncZv3CVzv5h7k+e5KlDky6lRaZyVh1dWrP7c5ChWKdYvEBafhHnUvzc15S6trJi82FQZP7iJ1i0fbQktPQMn6tb8QBkFPOnKea/w7JbIAOE5X+RV7+ief0jkJEvTCOzCVpS2mQCDEUPVoAzbLmC6yhQzFDMUMhBkaRUJjSXNgK1lDZFAwnMo1jgkggsgytwyjl2tUotzzm+SViMWDSjJaFNJpCh6JE8kgcyoInIyUJB/7ohDp86AuZQtBItKW2KhllO0vk0sTHJBxcvgcbwFvAhsHHNMwz17qKePeDt2xf4tNR5n5aUNpl9tvT7F0e7h45g+W2CeV577g2ijGgRQ1QXZ3m+/yUafpm3Zs5NZ8eSFSltfQcm3p39ZsdR19FFefNBsnCaKOPW39cpLBCsoIgFS3md7U++QqNopr/cGM9SHqJo6xvTP9xLSt1kISPEwIbyAMEiUcadxRnWru7l8ux5zv85fsUHdjpJPOzGl1u3JKXy1Hu1u2SFx5snC57Bni3sHtzHxEyFsWujkz7wQnVEuZPEv/1x4tkNivZOkj724eObhpm/dGb6UH22Z8fA3u6fro396o091RF5Wpwk/suV44Nrow8fmw/vH2jcmYnWsW7ZYmluRIG2fwAIBqNZGcz/tQAAAABJRU5ErkJggg==",
-      "btc_address": "1CHioFwQA5UdPmbK5eyrq5v1J2pvwG3vFc"
-    },
-    {
       "id": 59,
       "first_name": "Linet",
       "last_name": "Gillfillan",
@@ -949,16 +939,6 @@
       "country": "Colombia",
       "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACwSURBVDjLY/j//z8DJZhh1ADsBuRPiazJmxLxKa3P/39ki8Mnzwq9GqINyOgPbGhcnfh/y5Wp/y882/W/f3fW//B+3f/m2ZI9RBkQ2+7yfePlCf83Xpv0HwR69qT+79+TDjLgO1EG+FQb/t92Zc5/ZLDp0lSQAf+JMsAyR/p7966k/+27EsCa23cmkOYCoMKW4B6N/727UsA2g2gQn+gwgBrSAcSfQM6G0h2jSRk3BgASP+M7I0sypgAAAABJRU5ErkJggg==",
       "btc_address": "12tTumUNmtwbrLz3Xf6mDXn3qqBuNN2UPB"
-    },
-    {
-      "avatar": "asdasdasdasd",
-      "btc_address": "12313",
-      "email": "abc@abc.com",
-      "gender": "male",
-      "country": "China",
-      "first_name": "Abc",
-      "last_name": "Po",
-      "id": 101
     }
   ]
 }
